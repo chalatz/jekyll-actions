@@ -3,6 +3,8 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
+# bundle lock --add-platform x86_64-linux
+
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll site to Pages
 
